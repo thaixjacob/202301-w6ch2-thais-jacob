@@ -15,6 +15,5 @@ module.exports = {
   rules: {
     indent: ['Error', 2],
     'object-curly-spacing': ['Error', 'always'],
-    'linebreak-style': ['Error', 'unix'],
   },
 };
